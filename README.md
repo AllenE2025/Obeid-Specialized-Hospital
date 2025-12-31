@@ -41,7 +41,9 @@ Built using **React Native** and **Expo**, the app provides a modern interface f
 ---
 
 ## Screenshots
+<div>
+  <img src="assets/obeid-homescreen.jpg" width="300" alt="Home Screen"/>
+  <img src="assets/obeid-loginscreen.jpg" width="300" alt="Login Screen"/>
+  <img src="assets/obeid-startscreen.jpg" width="300" alt="Initial Screen"/>
+</div>
 
-<img src="assets/obeid-homescreen.png" width="300" alt="Home Screen"/>
-<img src="assets/obeid-loginscreen.png" width="300" alt="Login Screen"/>
-<img src="assets/obeid-startscreen.png" width="300" alt="Initial Screen"/>
