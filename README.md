@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# Obeid Specialized Hospital
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A **mobile application** for managing hospital-related tasks, designed for patients and staff.  
+Built using **React Native** and **Expo**, the app provides a modern interface for booking appointments, accessing medical files, online consultations, and more.
 
-## Get started
+---
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- **Patient Dashboard**: View personal details, admission date, and profile information.  
+- **Book Appointment**: Schedule appointments with hospital departments.  
+- **Medical Files**: Access and manage patient medical records.  
+- **Online Consultation**: Connect with doctors remotely.  
+- **Approvals**: Track pending approvals and requests.  
+- **Department Info**: Explore hospital departments and services.  
+- **Online Payment**: Pay for services digitally.  
+- **Laboratory Results**: Check lab test results within the app.  
+- **Navigation Bar**: Quick access to Home, Medical File, My Appointment, and Department sections.  
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## Tech Stack
 
-In the output, you'll find options to open the app in a
+- **React Native**  
+- **Expo**  
+- **Expo Router** for navigation and routing  
+- **Expo Vector Icons** for icons  
+- **Safe Area Context** for handling screen insets  
+- **React Native Reanimated & Gesture Handler** for smooth animations  
+- **React Native Bottom Sheet** for interactive modals  
+- **React Native WebView** for rendering web content  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Notes
 
-## Get a fresh project
+- Mobile-first design optimized for patient experience.  
+- Clean and modern UI with profile card, services grid, and interactive navigation bar.  
+- Uses **Expo Router** for tab-based and stack navigation.  
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## Screenshots
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img src="assets/obeid-homescreen.png" width="300" alt="Home Screen"/>
+<img src="assets/obeid-loginscreen.png" width="300" alt="Login Screen"/>
+<img src="assets/obeid-startscreen.png" width="300" alt="Initial Screen"/>
